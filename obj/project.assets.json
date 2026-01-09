@@ -3572,19 +3572,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Xavie\\.nuget\\packages\\": {}
+    "C:\\Users\\Eliasaf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xavie\\OneDrive\\Documents\\level two folder\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj",
+      "projectUniqueName": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\xavi project\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj",
       "projectName": "MiniChallengeFiveToSeven",
-      "projectPath": "C:\\Users\\Xavie\\OneDrive\\Documents\\level two folder\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj",
-      "packagesPath": "C:\\Users\\Xavie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xavie\\OneDrive\\Documents\\level two folder\\MiniChallengeFiveToSeven\\obj\\",
+      "projectPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\xavi project\\MiniChallengeFiveToSeven\\MiniChallengeFiveToSeven.csproj",
+      "packagesPath": "C:\\Users\\Eliasaf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eliasaf\\OneDrive\\Academy\\Season 8 Level 2\\Week 1\\xavi project\\MiniChallengeFiveToSeven\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Xavie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Eliasaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
